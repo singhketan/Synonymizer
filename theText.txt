@@ -1,0 +1,17 @@
+This is not theoretically impossible, so it seems likely to happen eventually, however the way it happens may be different from what people expect.
+
+The idea of consciousness being transferred into computers is typically portrayed in one of two ways:
+In sci-fi movies, conscious identity is "extracted" (somehow) from the brain and "injected" into a computer that has a capacity for conscious emulation.
+In philosophical thought experiments and in the singularity community it is imagined that eventually brain scanning will be so detailed that the entire brain down to every neuron, synapse, and receptor can be scanned and simulated brute-force in a giant computer.
+
+I think it is unlikely that either of these will ever happen. The sci-fi approach relies too much on magic, and the simulation approach requires enormous sophistication, scanning access, and computational capacities. If it's possible, it seems at least 100 years away.
+
+But there is another way.
+
+Current models of consciousness suggest that consciousness, and neural processing in the brain generally, is a decentralized adaptive process. If true, consciousness could be transferred to a computer incrementally via adaptation.
+
+As an analogy, consider the marketing/PR team working at a Fortune 1000 corporation. The marketing team puts out a coherent message -- the voice of the company -- but this is created by a team of people who collaborate and synthesize their thinking into a consistent framework. New people join the marketing department all the time, and they learn the ropes and take over from people who leave. Every few years, everyone working there is new, but the voice of the company (its identity, messages, and memory) remain intact.
+
+Now suppose robots were rotated into the marketing department. Over time, the marketing identity of the company would be fully run by robots.
+
+In the case of the brain, with neural prosthesis and brain-machine interfaces, it is possible that a clever computer could become quite integrated into the brain in support of memory, enhanced perception, and even enhanced thought. Such a machine might adapt and support neural activity to such an extent that it becomes better at it than the brain. Eventually it doesn't really need its biological half, and could operate just fine without it, carrying the identity of the former biological brain owner forward.
